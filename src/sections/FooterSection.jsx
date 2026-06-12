@@ -69,15 +69,15 @@ const FooterSection = () => {
               Get Exclusive Early Access and Stay Informed About Product
               Updates, Events, and More!
             </p>
-            <div className="flex justify-between items-center border-b border-[#D9D9D9] py-5 md:mt-10">
-              {/* The input field and arrow icon for newsletter signup. */}{" "}
-              {/* A
-          border at the bottom for a clean, modern look. */}
-              <input
-                type="email"
-                placeholder="Enter your email"
-                className="w-full placeholder:font-sans placeholder:text-[#999999]"
-              />
+           <div className="flex justify-between items-center border-b border-[#80c4d6] py-5 md:mt-10">
+  {/* The input field and arrow icon for newsletter signup. */}
+  {/* A border at the bottom for a clean, modern look. */}
+  <input
+    type="email"
+    placeholder="Enter your email"
+    className="w-full placeholder:font-sans placeholder:text-[#75c1d3]"
+  />
+</div>
               <img src={import.meta.env.BASE_URL + "images/arrow.svg"} alt="arrow" />
             </div>
           </div>
