@@ -53,33 +53,36 @@ const BenefitSection = () => {
 
           <div className="mt-20 col-center">
             <ClipPathTitle
-              title={"Shelf stable"}
-              color={"#faeade"}
-              bg={"#c88e64"}
-              className={"first-title"}
-              borderColor={"#222123"}
-            />
-            <ClipPathTitle
-              title={"Protein + Caffeine"}
-              color={"#222123"}
-              bg={"#faeade"}
-              className={"second-title"}
-              borderColor={"#222123"}
-            />
-            <ClipPathTitle
-              title={"Infinitely recyclable"}
-              color={"#faeade"}
-              bg={"#7F3B2D"}
-              className={"third-title"}
-              borderColor={"#222123"}
-            />
-            <ClipPathTitle
-              title={"Lactose free"}
-              color={"#2E2D2F"}
-              bg={"#FED775"}
-              className={"fourth-title"}
-              borderColor={"#222123"}
-            />
+  title={"Shelf stable"}
+  color={"#eaf9fd"}
+  bg={"#18a7c8"}
+  className={"first-title"}
+  borderColor={"#0d3f93"}
+/>
+
+<ClipPathTitle
+  title={"Protein + Caffeine"}
+  color={"#0d3f93"}
+  bg={"#d7eef4"}
+  className={"second-title"}
+  borderColor={"#0d3f93"}
+/>
+
+<ClipPathTitle
+  title={"Infinitely recyclable"}
+  color={"#eaf9fd"}
+  bg={"#1478b5"}
+  className={"third-title"}
+  borderColor={"#0d3f93"}
+/>
+
+<ClipPathTitle
+  title={"Lactose free"}
+  color={"#0d3f93"}
+  bg={"#80c4d6"}
+  className={"fourth-title"}
+  borderColor={"#0d3f93"}
+/>
           </div>
 
           <div className="md:mt-0 mt-10">
