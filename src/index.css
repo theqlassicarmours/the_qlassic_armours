@@ -7,33 +7,19 @@
 }
 
 @theme {
-  --color-black: #05006b;
-  --color-main-bg: #083b8a;
-  --color-white: #ffffff;
+--color-black: #1478b5;
+--color-main-bg: #18a7c8;
+--color-white: #ffffff;
 
-  /* Primary text */
-  --color-dark-brown: #0d3f93;
+--color-dark-brown: #0d3f93;
+--color-mid-brown: #18a7c8;
+--color-light-brown: #57c6df;
 
-  /* Secondary */
-  --color-mid-brown: #1478b5;
-
-  /* Accent */
-  --color-light-brown: #18a7c8;
-
-  /* Deep accent */
-  --color-red-brown: #0b006c;
-
-  /* Same as secondary */
-  --color-yellow-brown: #1478b5;
-
-  /* Light backgrounds */
-  --color-milk-yellow: #80c4d6;
-
-  /* Strong highlight */
-  --color-red: #179ec2;
-
-  /* Main page background */
-  --color-milk: #d7eef4;
+--color-red-brown: #80c4d6;
+--color-yellow-brown: #18a7c8;
+--color-milk-yellow: #b8e4ef;
+--color-red: #18a7c8;
+--color-milk: #e8f8fc;
 
   --font-sans: "Antonio", sans-serif;
   --font-paragraph: "ProximaNova, sans-serif";
