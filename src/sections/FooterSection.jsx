@@ -48,9 +48,9 @@ const FooterSection = () => {
   >
     <img src={import.meta.env.BASE_URL + "images/insta.svg"} alt="Instagram" />
   </div>
-  <div
-    className="https://x.com/TQAS140"
-    onClick={() => window.open("https://tiktok.com/@yourusername", "_blank")}
+            <div
+    className="social-btn cursor-pointer"
+    onClick={() => window.open("https://x.com/TQAS140", "_blank")}
   >
     <img src={import.meta.env.BASE_URL + "images/tiktok.svg"} alt="TikTok" />
   </div>
