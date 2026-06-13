@@ -16,7 +16,7 @@ const FooterSection = () => {
       <div className="2xl:h-[110dvh] relative md:pt-[20vh] pt-[10vh]">
         <div className="overflow-hidden z-10">
           <h1 className="general-title text-center text-milk py-5">
-            #CHUGRESPONSIBLY
+            ##WEARCONFIDENTLY
           </h1>
         </div>
 
@@ -88,7 +88,7 @@ Collections, Offers, and More!
 
 <div className="copyright-box">
   {/* The final row with copyright and legal links. */}
-<p>Copyright © 2025 Qlassic Armor - All Rights Reserved</p>
+<p>Copyright © 2026 Qlassic Armor - All Rights Reserved</p>
   <div className="flex items-center gap-7">
     <p>Privacy Policy</p>
     <p>Terms of Sеrvice</p>
